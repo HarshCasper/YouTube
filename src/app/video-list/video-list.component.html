@@ -1,0 +1,8 @@
+<div class="video-list">
+  <div class="video-item item" *ngFor="let video of videoList" (click)="appService.setFirstVideo(video)">
+    <img class="ui image" [src]="video.snippet.thumbnails.medium.url | safe" />
+    <div class="content">
+      <div class="header">{{video.snippet.title}}</div>
+    </div>
+  </div>
+</div>

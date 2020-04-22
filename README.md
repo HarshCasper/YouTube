@@ -37,3 +37,7 @@ npm install
 ```sh
 npm start
 ```
+
+## 📜 LICENSE
+
+[MIT](https://github.com/HarshCasper/YouTube/blob/master/LICENSE)

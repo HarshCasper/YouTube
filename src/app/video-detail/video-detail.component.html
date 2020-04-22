@@ -1,0 +1,7 @@
+<div class="ui embed" *ngIf="videoDetail">
+  <iframe width="560" height="315" [src]="videoDetail | safe"></iframe>
+</div>
+<div class="ui segment">
+  <h4 class="ui header">{{videoTitle}}</h4>
+  <p>{{videoDescr}}</p>
+</div>

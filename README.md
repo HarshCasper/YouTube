@@ -1,5 +1,10 @@
 # YouTube Clone using Angular-8
 
+<p align="center">
+  <a href="https://github.com/HarshCasper/YouTube">
+    <img src="https://www.freepnglogos.com/uploads/youtube-logo-hd-8.png" alt="Logo" width="200" height="170">
+  </a>
+
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 [![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/Naereen/)
 [![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](http://ForTheBadge.com)

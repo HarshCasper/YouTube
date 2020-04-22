@@ -1,0 +1,17 @@
+.search-input {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+  
+.search-input > * {
+    width: 100%;
+}
+
+/deep/ .mat-form-field-appearance-legacy .mat-form-field-underline {
+    background-color: darkblue;
+}
+
+/deep/ .mat-form-field-appearance-legacy .mat-form-field-label {
+    color: #333;
+}

@@ -1,0 +1,18 @@
+.search-bar {
+    height: 100px;
+    margin: 0 100px;
+}
+
+main {
+    margin: 0 100px;
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.detail-video {
+    flex: 0 0 70%;
+}
+
+.video-list {
+    flex: 0 0 30%;
+}

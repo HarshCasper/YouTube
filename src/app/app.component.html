@@ -1,0 +1,14 @@
+<div class="container">
+    <router-outlet></router-outlet>
+    <div class="search-bar">
+        <app-search-bar></app-search-bar>
+    </div>
+    <main>
+        <div class="detail-video">
+            <app-video-detail [video]="appService.video"></app-video-detail>
+        </div>
+        <div class="video-list">
+            <app-video-list [videos]="appService.videos"></app-video-list>
+        </div>
+    </main>
+</div>

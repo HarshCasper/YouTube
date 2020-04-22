@@ -19,6 +19,15 @@ Framework and capitalize on the experience working with Google Cloud APIs by dev
 * [Axios](https://github.com/axios/axios)
 * [YouTube v3 Data API](https://developers.google.com/youtube/v3)
 
+## 💥 Accessing YouTube API
+
+- Head over to [Google Developers Console](https://developers.google.com/youtube/v3/getting-started).
+- You need a Google Account to access the API console and request an API key.
+- Head over to [Google API Console](https://console.developers.google.com/) and Search for YouTube API in Search-Bar.
+- Select YouTube Data API v3 and click on Credentials.
+- Click on <b>"Create Credential"</b> and configure the Settings.
+- Get the API Key and use it accordingly.
+
 ## 🏃‍♂️ Local Installation
 
 1. Drop a ⭐ on the Github Repository. 

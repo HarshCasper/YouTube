@@ -18,3 +18,22 @@ Framework and capitalize on the experience working with Google Cloud APIs by dev
 * [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 * [Axios](https://github.com/axios/axios)
 * [YouTube v3 Data API](https://developers.google.com/youtube/v3)
+
+## 🏃‍♂️ Local Installation
+
+1. Drop a ⭐ on the Github Repository. 
+2. Clone the Repo by going to your local Git Client and pushing in the command: 
+
+```sh
+https://github.com/HarshCasper/YouTube.git
+```
+
+3. Install the Node Modules: 
+```sh
+npm install
+```
+
+4. At last, push in the command which will kickstart the application on Local Host:
+```sh
+npm start
+```

@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/HarshCasper/YouTube">
-    <img src="https://www.freepnglogos.com/uploads/youtube-logo-hd-8.png" alt="Logo" width="200" height="170">
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/udacity-logo-png-transparent.png" alt="Logo" width="200" height="170">
   </a>
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
